@@ -1,6 +1,6 @@
-# Printonia Backend
+# Backend Framework
 
-Backend service for Printonia, an e-commerce platform specializing in custom printing and merchandise.
+Backend service for Printonia, an e-commerce platform specializing in custom printing and merchandise. (Example)
 
 ## Features
 

@@ -1,3 +1,4 @@
+import os
 import boto3
 from flask import Flask, request, jsonify, session
 from flask_mysqldb import MySQL 
