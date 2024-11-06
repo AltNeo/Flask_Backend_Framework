@@ -1,0 +1,6 @@
+Flask==2.0.1
+Flask-Session==0.4.0
+Flask-MySQL==1.5.2
+boto3==1.26.137
+itsdangerous==2.0.1
+python-dotenv==0.19.0

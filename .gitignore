@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+tempCodeRunnerFile.py
+
+# Environment
+.env
+venv/
+env/
+
+# Credentials and Keys
+Creds/
+*.ppk
+*.pem
+**/iampass.txt
+**/Password DB.txt
+
+# AWS
+*.aws/
+.aws/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.pdf
+*.log
+
+# Assets (if needed to be ignored)
+assets_printonia/
+
+# Database backups
+RDS Backed Up/
+New folder/
+DatabaseStructure/
+Databasewithvalues/
+
+# Session files
+flask_session/
